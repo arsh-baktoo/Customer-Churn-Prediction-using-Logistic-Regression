@@ -11,7 +11,7 @@
 | **Application Number** | **IN26010763** |
 | **Batch Number** | **2(B)** |
 | **Email ID** | **arshbaktoo@gmail.com** |
-| **GitHub Repository** | [https://github.com/Arshbaktoo/Customer-Churn-Prediction-using-Logistic-Regression](https://github.com/Arshbaktoo/Customer-Churn-Prediction-using-Logistic-Regression) |
+| **GitHub Repository** | [https://github.com/arsh-baktoo/Customer-Churn-Prediction-using-Logistic-Regression-Arsh-Baktoo]
 
 ---
 
