@@ -1,5 +1,7 @@
-# Dataset
-insurance.csv
+# Datasets
+*.csv
+churn.csv
+WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 # Python environment & cache
 __pycache__/
@@ -8,6 +10,7 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 
-# Temporary scripts
-build_project.py
+# Helper scripts
+make_notebook_2.py
 make_notebook.py
+build_project.py
