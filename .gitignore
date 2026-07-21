@@ -1,0 +1,13 @@
+# Dataset
+insurance.csv
+
+# Python environment & cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+
+# Temporary scripts
+build_project.py
+make_notebook.py
